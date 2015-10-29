@@ -79,6 +79,7 @@ fully interact with the game. This would include:
 
 ### Functional Expectations
 
+* 5: Totally Awesome!
 * 4: Application fulfills all base expectations and one extension
 * 3: Application is fully playable without crashes or bugs
 * 2: Application has some missing functionality but no crashes
@@ -86,6 +87,7 @@ fully interact with the game. This would include:
 
 ### Test-Driven Development
 
+* 5: Totally Awesome!
 * 4: Application is broken into components which are well tested in both isolation and integration
 * 3: Application is well tested but does not balance isolation and integration tests
 * 2: Application makes some use of tests, but the coverage is insufficient
@@ -93,6 +95,7 @@ fully interact with the game. This would include:
 
 ### Breaking Logic into Components
 
+* 5: Totally Awesome!
 * 4: Application is expertly divided into logical components each with a clear, single responsibility
 * 3: Application effectively breaks logical components apart but breaks the principle of SRP
 * 2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
@@ -100,6 +103,7 @@ fully interact with the game. This would include:
 
 ### Fundamental JavaScript & Style
 
+* 5: Totally Awesome!
 * 4: Application demonstrates excellent knowledge of JavaScript syntax, style, and refactoring
 * 3: Application shows strong effort towards organization, content, and refactoring
 * 2: Application runs but the code has long functions, unnecessary or poorly-named variables, and needs significant refactoring
